@@ -38429,7 +38429,7 @@ NzDropdownService$$1.ctorParameters = () => [
  * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 /** @type {?} */
-const VERSION = new Version('0.0.4');
+const VERSION = new Version('0.0.5');
 
 /**
  * @fileoverview added by tsickle

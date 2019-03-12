@@ -44538,7 +44538,7 @@
      * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
      */
     /** @type {?} */
-    var VERSION = new i0.Version('0.0.4');
+    var VERSION = new i0.Version('0.0.5');
 
     /**
      * @fileoverview added by tsickle

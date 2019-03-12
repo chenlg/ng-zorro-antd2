@@ -44931,7 +44931,7 @@ var NzDropdownService$$1 = /** @class */ (function () {
  * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 /** @type {?} */
-var VERSION = new Version('0.0.4');
+var VERSION = new Version('0.0.5');
 
 /**
  * @fileoverview added by tsickle

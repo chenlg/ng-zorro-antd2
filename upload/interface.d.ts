@@ -25,6 +25,7 @@ export interface UploadFile {
     };
     type: string;
     [key: string]: any;
+    money?: string;
 }
 export interface UploadChangeParam {
     file: UploadFile;
